@@ -1,0 +1,16 @@
+Package: fmseaDatabases
+Title: Metabolite and Pathway Databases for fMSEA Analysis
+Version: 1.0.0
+Authors@R: c(
+    person("Yijiang", "Liu", email = "ejoliu@outlook.com", role = c("aut", "cre")),
+    person("Tidymass", "Team", role = "ctb")
+    )
+Description: Curated metabolite MS1 databases and pathway databases
+    for Feature-based Metabolite Set Enrichment Analysis (fMSEA).
+    This package provides KEGG and HMDB metabolite databases for both
+    RP and HILIC columns, as well as pathway databases from KEGG and Reactome.
+Depends: R (>= 4.0.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
