@@ -45,5 +45,5 @@ data(package = "fmseaDatabases")
 - **KEGG**: Kyoto Encyclopedia of Genes and Genomes
 - **HMDB**: Human Metabolome Database
 - **Reactome**: Reactome Pathway Database
-- **IMet-PD**: Integrated Metabolomics Pipeline for Drug Discovery
+- **IMetPD**: Integrated Metabolomics Pipeline for Drug Discovery
 - **WikiPathways**: Community-curated pathway database
